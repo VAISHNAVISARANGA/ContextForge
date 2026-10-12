@@ -1,4 +1,4 @@
-# Technical Document RAG Assistant
+# Context Forge
 
 A full-stack Retrieval-Augmented Generation (RAG) system that lets users upload
 technical documents (PDF/DOCX) and ask questions answered with citations back
